@@ -1,3 +1,3 @@
 # MCP Server : Sum Numbers
 
-Example of an MCP server that call an Outsystems webservice to sum 2 numbers
+Example of an MCP server that calls an Outsystems webservice to sum 2 numbers
